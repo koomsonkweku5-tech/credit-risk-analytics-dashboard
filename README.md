@@ -30,7 +30,11 @@ The goal of this project is to analyse lending data and identify factors influen
 ![Dashboard](images/dashboard.png)
 
 ## 📁 Project Structure
-data/
-sql/
-powerbi/
+data/README.md
+sql/README.md
+powerbi/README.md
 images/
+
+## 🚀 Outcome
+
+This project demonstrates how raw loan data can be transformed into meaningful insights for credit risk assessment.
