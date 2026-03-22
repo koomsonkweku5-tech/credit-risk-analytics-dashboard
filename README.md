@@ -30,7 +30,17 @@ The goal of this project is to analyse lending data and identify factors influen
 ![Dashboard](images/dashboard.png)
 
 ## 📁 Project Structure
-
+```plaintext
+credit-risk-analytics-dashboard/
+│
+├── data/
+├── sql/
+│   └── queries.sql
+├── powerbi/
+│   └── README.md
+├── images/
+│   └── dashboard.png
+└── README.md
 
 ## 🚀 Outcome
 
