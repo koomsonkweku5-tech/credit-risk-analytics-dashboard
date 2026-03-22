@@ -30,3 +30,7 @@ The goal of this project is to analyse lending data and identify factors influen
 ![Dashboard](images/dashboard.png)
 
 ## 📁 Project Structure
+data/
+sql/
+powerbi/
+images/
